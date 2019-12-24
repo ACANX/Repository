@@ -25,6 +25,11 @@
 
 # Python
 
+# PHP
+
+
+# Awesome
+
 
 # 大型开源项目
 
@@ -36,7 +41,7 @@
 
 
 
-# Awsome
+
 
 
 # 工具
@@ -48,6 +53,21 @@
 # OAuth
 
 # JWT
+
+# 书籍源码
+- https://github.com/normanmaurer/netty-in-action  Netty实战-源码
+
+
+
+# 百度网盘客户端
+- https://github.com/liuzhuoling2011/baidupcs-web
+
+
+# SSR/V2ray/SS/GFW
+- []()
+
+# Google地图工具
+- 
 
 # GitHub客户端
 - [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub)
