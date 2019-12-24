@@ -5,12 +5,23 @@
 
 
 # Java
-- 
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - 
 
 
 # Go
-
+- []()  Go语言圣经中文版 
+- https://github.com/golang-china/gopl-zh/tree/gh-pages
+- https://github.com/golang-china/gopl-zh
+- [adonovan/gopl.io](https://github.com/adonovan/gopl.io) Go语言圣经源码
 
 # Python
 
@@ -37,5 +48,8 @@
 # OAuth
 
 # JWT
+
+# GitHub客户端
+- [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub)
 
 
