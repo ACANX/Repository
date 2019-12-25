@@ -66,7 +66,7 @@
 
 ---
 ## 技术博客
-- - [ityouknow/ityouknow.github.io](https://github.com/ityouknow/ityouknow.github.io)
+- [ityouknow/ityouknow.github.io](https://github.com/ityouknow/ityouknow.github.io)
 
 
 ---
