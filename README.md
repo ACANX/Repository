@@ -109,6 +109,7 @@
 
 ---
 # Go
+- http://www.gopl.io/  Go语言圣经 作者提供的网站
 - [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh)  Go语言圣经中文版（已删除）
 - https://github.com/golang-china/gopl-zh/tree/gh-pages Go语言圣经中文版（已删除）
 - https://github.com/ACXNX/gopl-zh.github.com Go语言圣经中文版
