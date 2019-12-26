@@ -25,7 +25,7 @@
 ## Spring
 - https://github.com/ACXNX/spring-framework-i21
 - https://github.com/peterchenhdu/interface21
-
+- https://github.com/wuyouzhuguli/SpringAll
 
 ### SSM
 - https://github.com/crossoverJie/SSM
