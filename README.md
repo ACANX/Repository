@@ -19,6 +19,9 @@
 - https://github.com/graphql-java/tutorials
 - https://github.com/AutoGraphQL/AutoGraphQL
 
+## 算法
+- https://github.com/TheAlgorithms/Java
+
 ## JavaWeb
 - https://github.com/skyline75489/Heart-First-JavaWeb
 
