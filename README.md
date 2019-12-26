@@ -2,7 +2,7 @@
 
 **GitHub关注的仓库**
 
-
+# 编程语言
 ---
 # Java
 - []()
@@ -50,6 +50,15 @@
 - https://github.com/ReactivePlatform/netty-in-action-cn 源码仓库
 
 
+
+## 安全
+---
+### OAuth
+
+
+---
+### JWT
+
 ---
 
 # 分布式事务
@@ -66,7 +75,7 @@
 - https://github.com/gzc426/Java-Interview
 - https://github.com/online-demo/yunxi-interview-threadpool
 - https://github.com/lenve/CoolMeeting
-- https://github.com/521xueweihan/HelloGitHub
+
 
 ---
 ## 技术博客
@@ -96,7 +105,50 @@
 
 
 ---
-# Awesome
+# 前端
+
+
+---
+# 后端
+
+
+
+
+---
+# 系统架构
+
+
+---
+# 分布式系统
+
+
+---
+# 微服务
+
+---
+# SOAP
+
+---
+# 云计算
+
+---
+#  容器
+
+
+---
+# Docker
+
+---
+# Service Mesh
+
+---
+# Serviceless
+
+
+---
+# 云原生
+
+
 
 
 ---
@@ -111,15 +163,43 @@
 - https://github.com/therecipe/qt  
 
 
+
 ---
-# ReID
+# Awesome
+- https://github.com/521xueweihan/HelloGitHub
 
 
+
+
+---
+# 博客模板
+
+
+
+
+---
+# 机器学习
+
+---
+# 深度学习
+
+---
+# 图像识别
 
 ---
 # 目标检测
 
 
+---
+# ReID
+
+
+---
+# 数据挖掘
+
+
+---
+# 大数据分析
 
 
 
@@ -132,16 +212,8 @@
 
 
 ---
-# markdown编辑器
+# Markdown编辑器
 - https://github.com/notable/notable
-
-
----
-# OAuth
-
-
----
-# JWT
 
 
 ---
@@ -161,7 +233,6 @@
 # 百度网盘客户端
 - https://github.com/liuzhuoling2011/baidupcs-web
 - https://github.com/peterq/pan-light
-
 
 
 ---
@@ -185,44 +256,16 @@
 # GitHub客户端
 - [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub)
 
-
-
 ---
 
-# AwesomeGitHubRepository
-### GitHub Watching Repository  Summary
-
-# 目录
-
-## 编程语言
-
-
-## 后端
-
-
-## 前端
-
-
-## 系统架构
-
-### 分布式系统
-### 微服务
-### SOAP
-### 云计算
-###  容器
-### Docker
 
 
 
-## 博客模板
 
 
-## 机器学习
 
-### 数据挖掘
-### 深度学习
-### 大数据分析
-### 图像识别
+
+
 
 
 
