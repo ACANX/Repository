@@ -36,7 +36,9 @@
 - https://github.com/crossoverJie/SSM
 
 ### SpringBoot/SpringCloud
+- https://gitee.com/zlt2000/microservices-platform
 - https://github.com/crossoverJie/springboot-cloud
+- https://gitee.com/zuihou111/zuihou-admin-cloud
 - https://github.com/zuihou/zuihou-admin-rp
 - https://github.com/elunez/eladmin
 
