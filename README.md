@@ -22,6 +22,9 @@
 ## 算法
 - https://github.com/TheAlgorithms/Java
 
+## 设计模式 design-patterns
+- https://github.com/iluwatar/java-design-patterns   https://java-design-patterns.com/
+
 ## JavaWeb
 - https://github.com/skyline75489/Heart-First-JavaWeb
 
