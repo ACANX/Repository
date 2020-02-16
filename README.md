@@ -284,7 +284,7 @@
 
 ---
 # GitHub客户端
-- [https://github.com/mobile](https://github.com/mobile 官方测试版客户端)
+- [https://github.com/mobile](https://github.com/mobile) 官方测试版客户端
 - [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub)
 
 ---
