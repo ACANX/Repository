@@ -292,7 +292,7 @@
 
 # APP
 ### 电视直播
-- [https://github.com/lizongying/my-tv]([github](https://github.com/lizongying/my-tv)https://github.com/lizongying/my-tv)
+- [https://github.com/lizongying/my-tv](https://github.com/lizongying/my-tv)
 
 
 
