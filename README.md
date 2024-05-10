@@ -11,7 +11,7 @@
 - [netty/netty](https://github.com/netty/netty)
 - [alibaba/arthas](https://github.com/alibaba/arthas)
 - [apache/dubbo](https://github.com/apache/dubbo)
-- [seata/seata](https://github.com/seata/seata)
+- [apache/seata](https://github.com/apache/incubator-seata)     &nbsp; &nbsp; &nbsp;   [seata/seata](https://github.com/seata/seata) 
 - [alibaba/nacos](https://github.com/alibaba/nacos)
 - [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3)
 
