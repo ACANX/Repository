@@ -293,9 +293,17 @@
 - [https://github.com/lizongying/my-tv](https://github.com/lizongying/my-tv)
 
 
+# 网盘程序
+- [qiwenshare/qiwen-file](https://github.com/qiwenshare/qiwen-file)  [qiwenshare/qiwen-file-web](https://github.com/qiwenshare/qiwen-file-web)   [qiwenshare/qiwen-file-doc](https://github.com/qiwenshare/qiwen-file-doc)
+- XX
+
+# 开源金融项目
+- [qiwenshare/qiwen-stock](https://github.com/qiwenshare/qiwen-stock)  [qiwenshare/qiwen-stock-web](https://github.com/qiwenshare/qiwen-stock-web)
 
 
 
+# 开源组织
+- [奇文社区-qiwenshare](https://github.com/qiwenshare)
 
 
 
