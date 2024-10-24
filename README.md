@@ -4,7 +4,7 @@
 
 # 编程语言
 ---
-# Java Top Projects
+## Java Top Projects
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
 - [spring-cloud/spring-cloud-commons](https://github.com/spring-cloud/spring-cloud-commons)       &nbsp; &nbsp; &nbsp;   [spring-cloud/spring-cloud-release](https://github.com/spring-cloud/spring-cloud-release)   &nbsp; &nbsp; &nbsp;    [spring-cloud/spring-cloud-build](https://github.com/spring-cloud/spring-cloud-build)
@@ -16,15 +16,7 @@
 - [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3)
 
 
-
-
-## 算法
-- https://github.com/TheAlgorithms/Java
-
-## 设计模式 design-patterns
-- https://github.com/iluwatar/java-design-patterns   https://java-design-patterns.com/
-
-## Spring
+### Spring
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
 - https://github.com/peterchenhdu/interface21
 - https://github.com/seaswalker/spring-analysis  Spring源码讲解
@@ -45,26 +37,11 @@
 - [spring-cloud/spring-cloud-build](https://github.com/spring-cloud/spring-cloud-build)
 
 
-## RPC
-- [apache/dubbo](https://github.com/apache/dubbo)   &nbsp; &nbsp; &nbsp; [apache/dubbo-awesome](https://github.com/apache/dubbo-awesome)  &nbsp; &nbsp; &nbsp;   [apache/dubbo-spi-extensions](https://github.com/apache/dubbo-spi-extensions)
-- https://github.com/zonghaishang/dubbo-example-http2
-- https://github.com/zonghaishang/dubbo-rpc-http2
-- https://github.com/sofastack/sofa-rpc
-- https://github.com/sofastack/sofa-dashboard
-- https://github.com/smallnest/rpcx
-- https://github.com/rpcx-ecosystem/rpcx-benchmark
-- https://github.com/grpc/grpc-java
-- https://github.com/xcbeyond/spring-boot-grpc
-- https://github.com/apache/dubbo-spring-boot-project
-
-## Debug
-- https://github.com/alibaba/arthas
-
-## Netty
+### Netty
 - https://github.com/ACXNX/netty-in-action
 - https://github.com/ReactivePlatform/netty-in-action-cn 源码仓库
 
-## JavaWeb
+### JavaWeb
 - https://github.com/skyline75489/Heart-First-JavaWeb
   
 ### SSM
@@ -76,53 +53,12 @@
 - [gitee.com/ACANX/java-study](https://gitee.com/ACANX/java-study)
 - [gitee.com/ACANX/java-study](https://gitee.com/ACANX/java-study)
 
-### GraphQL
-- https://github.com/graphql-java/tutorials
-- https://github.com/AutoGraphQL/AutoGraphQL
 
-
-## 安全
----
-### OAuth
-
-
----
-### JWT
-
----
-
-## 下载
-- https://github.com/lingochamp/FileDownloader
-
-## 监控
-- https://github.com/LinShunKang/MyPerf4J
-
-# 分布式事务
+### 分布式事务
 - https://github.com/seata/seata-samples
 
----
-# 书籍
-- https://github.com/LingCoder/OnJava8
-- https://github.com/online-demo/spring5projectdemo
-- https://github.com/hansonwang99/Spring-Boot-In-Action
----
-# 笔试 面试 校招
-- https://github.com/gzc426/Java-Interview
-- https://github.com/online-demo/yunxi-interview-threadpool
-- https://github.com/lenve/CoolMeeting
 
-
----
-## 技术博客
-- [ityouknow/ityouknow.github.io](https://github.com/ityouknow/ityouknow.github.io)
-
-
-## 绘图
-- [github.com/jtablesaw/tablesaw](https://github.com/jtablesaw/tablesaw)
-
-
----
-# Go
+## Go
 - http://www.gopl.io/  Go语言圣经 作者提供的网站
 - [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh)  Go语言圣经中文版（已删除）
 - https://github.com/golang-china/gopl-zh/tree/gh-pages Go语言圣经中文版（已删除）
@@ -136,12 +72,14 @@
 - https://github.com/grpc/grpc-go
 
 ---
-# Python
+## Python
 
 
 ---
-# PHP
+## PHP
 - [PHP/php-src](https://github.com/php/php-src)
+
+
 
 
 ---
@@ -192,6 +130,73 @@
 
 
 
+# 算法
+- https://github.com/TheAlgorithms/Java
+
+# 设计模式 design-patterns
+- https://github.com/iluwatar/java-design-patterns   https://java-design-patterns.com/
+
+# RPC
+- [apache/dubbo](https://github.com/apache/dubbo)   &nbsp; &nbsp; &nbsp; [apache/dubbo-awesome](https://github.com/apache/dubbo-awesome)  &nbsp; &nbsp; &nbsp;   [apache/dubbo-spi-extensions](https://github.com/apache/dubbo-spi-extensions)
+- https://github.com/zonghaishang/dubbo-example-http2
+- https://github.com/zonghaishang/dubbo-rpc-http2
+- https://github.com/sofastack/sofa-rpc
+- https://github.com/sofastack/sofa-dashboard
+- https://github.com/smallnest/rpcx
+- https://github.com/rpcx-ecosystem/rpcx-benchmark
+- https://github.com/grpc/grpc-java
+- https://github.com/xcbeyond/spring-boot-grpc
+- https://github.com/apache/dubbo-spring-boot-project
+
+## Debug
+- https://github.com/alibaba/arthas
+
+
+## GraphQL
+- https://github.com/graphql-java/tutorials
+- https://github.com/AutoGraphQL/AutoGraphQL
+
+
+# 安全
+---
+### OAuth
+
+---
+### JWT
+
+---
+
+# 下载
+- https://github.com/lingochamp/FileDownloader
+
+# 监控
+- https://github.com/LinShunKang/MyPerf4J
+
+
+---
+# 书籍
+- https://github.com/LingCoder/OnJava8
+- https://github.com/online-demo/spring5projectdemo
+- https://github.com/hansonwang99/Spring-Boot-In-Action
+---
+# 笔试 面试 校招
+- https://github.com/gzc426/Java-Interview
+- https://github.com/online-demo/yunxi-interview-threadpool
+- https://github.com/lenve/CoolMeeting
+
+
+---
+# 技术博客
+- [ityouknow/ityouknow.github.io](https://github.com/ityouknow/ityouknow.github.io)
+
+
+# 绘图
+- [github.com/jtablesaw/tablesaw](https://github.com/jtablesaw/tablesaw)
+
+
+---
+
+
 ---
 # 大型开源项目/中间件
 
@@ -208,9 +213,6 @@
 ---
 # 博客模板
 
-
-
-
 ---
 # 机器学习
 
@@ -223,19 +225,14 @@
 ---
 # 目标检测
 
-
 ---
 # ReID
-
 
 ---
 # 数据挖掘
 
-
 ---
 # 大数据分析
-
-
 
 
 
@@ -268,7 +265,6 @@
 - https://github.com/liuzhuoling2011/baidupcs-web
 - https://github.com/peterq/pan-light
 
-
 ---
 # SSR/V2ray/SS/GFW
 - https://github.com/v2ray/v2ray-core
@@ -280,11 +276,9 @@
 - https://github.com/modyuan/getmap
 - https://github.com/ACXNX/getmap
 
-
 ---
 # 12306
 - https://github.com/testerSunshine/12306
-
 
 ---
 # GitHub客户端
@@ -305,7 +299,6 @@
 
 # 开源金融项目
 - [qiwenshare/qiwen-stock](https://github.com/qiwenshare/qiwen-stock)  [qiwenshare/qiwen-stock-web](https://github.com/qiwenshare/qiwen-stock-web)
-
 
 
 # 开源组织
